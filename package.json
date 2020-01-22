@@ -8,9 +8,5 @@
     "build": "tsc",
     "watch": "tsc --w"
   },
-  "author": "sebastiangolian <sebastiangolian@gmail.com>",
-  "dependencies": {
-    "@types/node": "^10.12.21",
-    "node": "^11.9.0"
-  }
+  "author": "sebastiangolian <sebastiangolian@gmail.com>"
 }
