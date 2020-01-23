@@ -1,4 +1,9 @@
-import { User } from "./classes/User.js";
+var cp = require('child_process');
 
-let user = new User("Jan","Kowalski");
-user.log();
+console.log('-------------------------------')
+console.log('------- node-playground -------')
+console.log('-------------------------------')
+
+
+cp.fork('js/controllers/device.controller')
+cp.fork('js/controllers/user.controller')

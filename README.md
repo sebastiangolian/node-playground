@@ -1,5 +1,5 @@
 # node-playground
-This playground application for Node with TypeScript.
+This playground application for Node with TypeScript
 
 ## Getting started
 ```bash
